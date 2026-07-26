@@ -38,4 +38,4 @@ This project analyzes a dataset of **6,400+ NYC taxi trips** to answer key opera
 
 ## 👤 Author
 * **Name:** Rasakh Mohsin (*Ryzek_20*)
-* **Kaggle:** [RasakhMohin](https://www.kaggle.com/rasakhmohsin01)
+* **Kaggle:** [RasakhMohsin](https://www.kaggle.com/rasakhmohsin01)
